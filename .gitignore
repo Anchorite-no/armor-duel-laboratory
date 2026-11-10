@@ -1,0 +1,18 @@
+node_modules/
+dist/
+bundle/
+.inspection/
+.local/
+*.log
+coverage/
+.env*
+!.env.example
+
+# Local match and participant artifacts
+*.mp4
+*.mjpeg
+*.ndjson
+*.rounds/
+session.json
+scripts.json
+notebook.md
